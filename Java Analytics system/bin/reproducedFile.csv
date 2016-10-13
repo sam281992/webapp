@@ -1,0 +1,302 @@
+id,EducationAttainment,CourseCompletionYear,CourseGPA,Course_Information,PG_UG,FieldOfEducation,country,BasisOfAdmission,Age,Gender,Citizenship,LocationOfTermResidence,LocationOfPermenantResidence,TypeOfAttendance,ModeOfAttendance,CountryOfBirth,Language ,YearOfArrival,GRE,GMAT,SAT,EquityData,Salary
+5000,MBA,2015,3.22,MSIT,62326.92621491446,Commerce,India,GMAT,27,Male,India,Pittsburgh,India,'Part Time',external,India,Hindi,2013,0,754,0,Regional/Remote,62326.92621491446
+5001,Masters,2009,3.22,MSPPM,62326.92621491446,Commerce,India,GRE,33,Female,India,Pittsburgh,India,'Part Time',external,India,Hindi,2005,329,0,0,Disability,62326.92621491446
+5002,Masters,2009,3.65,MSPPM,75484.27916828441,Arts,India,GRE,21,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2011,338,0,0,low-income,75484.27916828441
+5003,Masters,2008,3.02,MISM,56207.22716683541,Commerce,India,GRE,26,Female,India,Pittsburgh,India,'Part Time',external,India,Hindi,2005,327,0,0,'Women in non-traditional areas',56207.22716683541
+5004,Masters,2015,3.7,BIDA,77014.20393030418,Commerce,India,GRE,35,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2005,340,0,0,Regional/Remote,77014.20393030418
+5005,MBA,2006,4.12,MSCS,89865.57193127018,Arts,India,GMAT,21,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2014,0,765,0,Disability,89865.57193127018
+5006,MBA,2012,3.26,MISM,63550.86602453026,Commerce,India,GMAT,29,Female,India,Pittsburgh,India,'Part Time',external,India,Hindi,2005,0,755,0,low-income,63550.86602453026
+5007,MBA,2015,3.85,MISM,81603.97821636347,Science,India,GMAT,38,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2007,0,707,0,'Women in non-traditional areas',81603.97821636347
+5008,MBA,2008,3.23,MISM,62632.91116731841,Science,India,GMAT,27,Female,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2013,0,728,0,Regional/Remote,62632.91116731841
+5009,Masters,2013,3.14,MSIT,59879.04659568284,Arts,India,GRE,34,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2007,336,0,0,Disability,59879.04659568284
+5010,Masters,2013,3.66,MSIT,75790.26412068837,Arts,India,GRE,31,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2014,333,0,0,low-income,75790.26412068837
+5011,Masters,2006,3.76,MSIT,78850.11364472788,Science,India,GRE,24,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2011,333,0,0,'Women in non-traditional areas',78850.11364472788
+5012,Masters,2006,3.17,MSCS,60797.00145289469,Arts,India,GRE,37,Male,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2010,335,0,0,Regional/Remote,60797.00145289469
+5013,MBA,2010,3.33,MSPPM,65692.76069135794,Commerce,India,GMAT,38,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2013,0,735,0,Disability,65692.76069135794
+5014,MBA,2013,3.26,BIDA,63550.86602453026,Commerce,India,GMAT,32,Male,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2010,0,686,0,low-income,63550.86602453026
+5015,MBA,2009,4.13,MSCS,90171.55688367413,Science,India,GMAT,24,Male,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2007,0,745,0,'Women in non-traditional areas',90171.55688367413
+5016,MBA,2008,3.38,MSPPM,67222.6854533777,Arts,India,GMAT,23,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2013,0,693,0,Regional/Remote,67222.6854533777
+5017,Masters,2015,4.28,MSPPM,94761.33116973343,Science,India,GRE,23,Male,India,Pittsburgh,India,'Part Time',external,India,Hindi,2005,331,0,0,Disability,94761.33116973343
+5018,Masters,2007,3.07,MISM,57737.151928855164,Science,India,GRE,37,Female,India,Pittsburgh,India,'Part Time',external,India,Hindi,2009,334,0,0,low-income,57737.151928855164
+5019,Masters,2008,3.4,MSIT,67834.6553581856,Arts,India,GRE,32,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2005,326,0,0,'Women in non-traditional areas',67834.6553581856
+5020,Masters,2008,4.15,BIDA,90783.52678848205,Commerce,India,GRE,34,Male,India,Pittsburgh,India,'Part Time',external,India,Hindi,2006,339,0,0,Regional/Remote,90783.52678848205
+5021,MBA,2015,3.71,MSIT,77320.18888270813,Arts,India,GMAT,28,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2014,0,775,0,Disability,77320.18888270813
+5022,MBA,2011,3.83,MSIT,80992.00831155556,Arts,India,GMAT,25,Male,India,Pittsburgh,India,'Full Time',external,India,Hindi,2009,0,679,0,low-income,80992.00831155556
+5023,MBA,2006,3.98,BIDA,85581.78259761485,Commerce,India,GMAT,40,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2008,0,780,0,'Women in non-traditional areas',85581.78259761485
+5024,MBA,2009,3.52,BIDA,71506.47478703303,Arts,India,GMAT,22,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2007,0,706,0,Regional/Remote,71506.47478703303
+5025,Masters,2009,3.36,BIDA,66610.71554856979,Arts,India,GRE,38,Male,India,Pittsburgh,India,'Part Time',external,India,Hindi,2006,337,0,0,Disability,66610.71554856979
+5026,Masters,2011,3.11,BIDA,58961.091738470976,Commerce,India,GRE,21,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2013,327,0,0,low-income,58961.091738470976
+5027,Masters,2008,3.09,MSIT,58349.12183366307,Commerce,India,GRE,26,Male,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2013,339,0,0,'Women in non-traditional areas',58349.12183366307
+5028,Masters,2010,4.14,MSCS,90477.54183607807,Science,India,GRE,36,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2005,339,0,0,Regional/Remote,90477.54183607807
+5029,MBA,2009,4.2,MSIT,92313.4515505018,Commerce,India,GMAT,36,Male,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2009,0,716,0,Disability,92313.4515505018
+5030,MBA,2009,3.96,MSPPM,84969.81269280694,Science,India,GMAT,36,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2008,0,794,0,low-income,84969.81269280694
+5031,MBA,2010,4.19,MSCS,92007.46659809786,Science,India,GMAT,27,Female,India,Pittsburgh,India,'Full Time',external,India,Hindi,2011,0,684,0,'Women in non-traditional areas',92007.46659809786
+5032,MBA,2006,3.6,MSPPM,73954.35440626465,Arts,India,GMAT,21,Female,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2008,0,735,0,Regional/Remote,73954.35440626465
+5033,Masters,2015,3.04,BIDA,56819.19707164331,Commerce,India,GRE,32,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2010,327,0,0,Disability,56819.19707164331
+5034,Masters,2006,4.22,MSIT,92925.4214553097,Science,India,GRE,26,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2012,336,0,0,low-income,92925.4214553097
+5035,Masters,2009,4.3,BIDA,95373.30107454132,Science,India,GRE,35,Male,India,Pittsburgh,India,'Part Time',external,India,Hindi,2010,339,0,0,'Women in non-traditional areas',95373.30107454132
+5036,Masters,2008,3.27,BIDA,63856.85097693422,Arts,India,GRE,21,Female,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2007,330,0,0,Regional/Remote,63856.85097693422
+5037,MBA,2012,3.73,MISM,77932.15878751603,Science,India,GMAT,30,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2005,0,682,0,Disability,77932.15878751603
+5038,MBA,2014,3.91,MISM,83439.88793078718,Arts,India,GMAT,33,Female,India,Pittsburgh,India,'Part Time',external,India,Hindi,2007,0,800,0,low-income,83439.88793078718
+5039,MBA,2008,4.26,MSPPM,94149.36126492551,Science,India,GMAT,31,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2007,0,691,0,'Women in non-traditional areas',94149.36126492551
+5040,MBA,2006,3.01,MISM,55901.24221443145,Science,India,GMAT,32,Female,India,Pittsburgh,India,'Part Time',external,India,Hindi,2012,0,735,0,Regional/Remote,55901.24221443145
+5041,Masters,2009,3.5,MSPPM,70894.50488222513,Science,India,GRE,37,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2012,325,0,0,Disability,70894.50488222513
+5042,Masters,2015,3.27,MISM,63856.85097693422,Arts,India,GRE,35,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2008,329,0,0,low-income,63856.85097693422
+5043,Masters,2014,3.76,MISM,78850.11364472788,Science,India,GRE,26,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2009,336,0,0,'Women in non-traditional areas',78850.11364472788
+5044,Masters,2015,3.42,BIDA,68446.6252629935,Arts,India,GRE,23,Female,India,Pittsburgh,India,'Full Time',external,India,Hindi,2012,335,0,0,Regional/Remote,68446.6252629935
+5045,MBA,2006,3.42,MSPPM,68446.6252629935,Arts,India,GMAT,40,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2014,0,725,0,Disability,68446.6252629935
+5046,MBA,2007,4.24,MISM,93537.39136011762,Science,India,GMAT,38,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2007,0,732,0,low-income,93537.39136011762
+5047,MBA,2007,3.25,MSCS,63244.881072126314,Commerce,India,GMAT,38,Female,India,Pittsburgh,India,'Part Time',external,India,Hindi,2008,0,692,0,'Women in non-traditional areas',63244.881072126314
+5048,MBA,2012,3.97,MSPPM,85275.7976452109,Science,India,GMAT,32,Female,India,Pittsburgh,India,'Part Time',external,India,Hindi,2014,0,771,0,Regional/Remote,85275.7976452109
+5049,Masters,2007,4.33,MSCS,96291.2559317532,Commerce,India,GRE,37,Male,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2013,331,0,0,Disability,96291.2559317532
+5050,Masters,2009,4.22,MSCS,92925.4214553097,Arts,India,GRE,38,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2014,330,0,0,low-income,92925.4214553097
+5051,Masters,2010,3.16,MSCS,60491.01650049075,Science,India,GRE,32,Male,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2010,326,0,0,'Women in non-traditional areas',60491.01650049075
+5052,Masters,2013,3.8,MISM,80074.0534543437,Arts,India,GRE,27,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2006,327,0,0,Regional/Remote,80074.0534543437
+5053,MBA,2014,3.55,MISM,72424.42964424488,Commerce,India,GMAT,33,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2009,0,720,0,Disability,72424.42964424488
+5054,MBA,2013,3.94,MSIT,84357.84278799903,Arts,India,GMAT,23,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2013,0,738,0,low-income,84357.84278799903
+5055,MBA,2007,3.83,BIDA,80992.00831155556,Science,India,GMAT,26,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2008,0,740,0,'Women in non-traditional areas',80992.00831155556
+5056,MBA,2011,3.72,MSCS,77626.17383511209,Commerce,India,GMAT,24,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2011,0,674,0,Regional/Remote,77626.17383511209
+5057,Masters,2007,3.75,MISM,78544.12869232394,Commerce,India,GRE,34,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2007,330,0,0,Disability,78544.12869232394
+5058,Masters,2010,3.7,BIDA,77014.20393030418,Science,India,GRE,38,Male,India,Pittsburgh,India,'Part Time',external,India,Hindi,2011,332,0,0,low-income,77014.20393030418
+5059,Masters,2012,3.46,MSPPM,69670.56507260932,Commerce,India,GRE,23,Female,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2012,339,0,0,'Women in non-traditional areas',69670.56507260932
+5060,Masters,2015,3.85,MSCS,81603.97821636347,Science,India,GRE,25,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2010,333,0,0,Regional/Remote,81603.97821636347
+5061,MBA,2014,3.45,MSPPM,69364.58012020537,Science,India,GMAT,35,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2013,0,698,0,Disability,69364.58012020537
+5062,MBA,2015,3.47,MSIT,69976.55002501328,Commerce,India,GMAT,21,Male,India,Pittsburgh,India,'Part Time',external,India,Hindi,2007,0,704,0,low-income,69976.55002501328
+5063,MBA,2008,3.83,BIDA,80992.00831155556,Science,India,GMAT,24,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2006,0,776,0,'Women in non-traditional areas',80992.00831155556
+5064,MBA,2011,3.9,BIDA,83133.90297838322,Science,India,GMAT,29,Female,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2006,0,676,0,Regional/Remote,83133.90297838322
+5065,Masters,2006,3.79,MISM,79768.06850193975,Commerce,India,GRE,34,Female,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2012,334,0,0,Disability,79768.06850193975
+5066,Masters,2010,3.55,MSPPM,72424.42964424488,Commerce,India,GRE,40,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2008,327,0,0,low-income,72424.42964424488
+5067,Masters,2015,3.75,MSPPM,78544.12869232394,Commerce,India,GRE,39,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2010,330,0,0,'Women in non-traditional areas',78544.12869232394
+5068,Masters,2011,3.32,MSIT,65386.77573895398,Commerce,India,GRE,22,Male,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2005,329,0,0,Regional/Remote,65386.77573895398
+5069,MBA,2008,3.65,MISM,75484.27916828441,Science,India,GMAT,31,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2012,0,763,0,Disability,75484.27916828441
+5070,MBA,2015,3.56,MSCS,72730.41459664884,Commerce,India,GMAT,29,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2011,0,781,0,low-income,72730.41459664884
+5071,MBA,2008,3.08,MSCS,58043.136881259124,Commerce,India,GMAT,26,Male,India,Pittsburgh,India,'Full Time',external,India,Hindi,2012,0,746,0,'Women in non-traditional areas',58043.136881259124
+5072,MBA,2007,3.54,MSIT,72118.44469184094,Commerce,India,GMAT,24,Male,India,Pittsburgh,India,'Full Time',external,India,Hindi,2007,0,717,0,Regional/Remote,72118.44469184094
+5073,Masters,2007,3.83,BIDA,80992.00831155556,Arts,India,GRE,25,Female,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2012,325,0,0,Disability,80992.00831155556
+5074,Masters,2012,3.06,BIDA,57431.16697645122,Science,India,GRE,32,Male,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2010,335,0,0,low-income,57431.16697645122
+5075,Masters,2010,3.66,BIDA,75790.26412068837,Science,India,GRE,38,Female,India,Pittsburgh,India,'Part Time',external,India,Hindi,2007,331,0,0,'Women in non-traditional areas',75790.26412068837
+5076,Masters,2013,4.12,MSCS,89865.57193127018,Commerce,India,GRE,32,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2007,337,0,0,Regional/Remote,89865.57193127018
+5077,MBA,2007,4.14,MSIT,90477.54183607807,Arts,India,GMAT,33,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2008,0,769,0,Disability,90477.54183607807
+5078,MBA,2008,3.76,MSIT,78850.11364472788,Arts,India,GMAT,38,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2014,0,707,0,low-income,78850.11364472788
+5079,MBA,2007,3.15,MSPPM,60185.03154808679,Commerce,India,GMAT,29,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2007,0,783,0,'Women in non-traditional areas',60185.03154808679
+5080,MBA,2014,3.2,MSIT,61714.95631010656,Commerce,India,GMAT,27,Female,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2006,0,690,0,Regional/Remote,61714.95631010656
+5081,Masters,2011,3.99,BIDA,85887.7675500188,Science,India,GRE,38,Female,India,Pittsburgh,India,'Part Time',external,India,Hindi,2011,336,0,0,Disability,85887.7675500188
+5082,Masters,2014,3.66,BIDA,75790.26412068837,Arts,India,GRE,24,Male,India,Pittsburgh,India,'Full Time',external,India,Hindi,2009,335,0,0,low-income,75790.26412068837
+5083,Masters,2013,3.08,MSPPM,58043.136881259124,Commerce,India,GRE,35,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2012,333,0,0,'Women in non-traditional areas',58043.136881259124
+5084,Masters,2009,3.76,MSIT,78850.11364472788,Arts,India,GRE,35,Female,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2006,331,0,0,Regional/Remote,78850.11364472788
+5085,MBA,2006,3.56,MSCS,72730.41459664884,Arts,India,GMAT,25,Female,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2013,0,793,0,Disability,72730.41459664884
+5086,MBA,2008,3.84,BIDA,81297.9932639595,Science,India,GMAT,34,Female,India,Pittsburgh,India,'Part Time',external,India,Hindi,2012,0,710,0,low-income,81297.9932639595
+5087,MBA,2009,4.05,BIDA,87723.67726444251,Commerce,India,GMAT,29,Male,India,Pittsburgh,India,'Full Time',external,India,Hindi,2009,0,691,0,'Women in non-traditional areas',87723.67726444251
+5088,MBA,2008,3.88,MISM,82521.93307357532,Commerce,India,GMAT,35,Female,India,Pittsburgh,India,'Full Time',external,India,Hindi,2005,0,763,0,Regional/Remote,82521.93307357532
+5089,Masters,2006,3.6,MISM,73954.35440626465,Science,India,GRE,36,Male,India,Pittsburgh,India,'Full Time',external,India,Hindi,2009,340,0,0,Disability,73954.35440626465
+5090,Masters,2010,3.96,MSPPM,84969.81269280694,Commerce,India,GRE,26,Male,India,Pittsburgh,India,'Full Time',external,India,Hindi,2013,339,0,0,low-income,84969.81269280694
+5091,Masters,2009,3.31,MSIT,65080.79078655003,Science,India,GRE,38,Male,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2010,327,0,0,'Women in non-traditional areas',65080.79078655003
+5092,Masters,2013,3.8,BIDA,80074.0534543437,Commerce,India,GRE,32,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2010,326,0,0,Regional/Remote,80074.0534543437
+5093,MBA,2010,3.89,MSIT,82827.91802597928,Science,India,GMAT,28,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2009,0,752,0,Disability,82827.91802597928
+5094,MBA,2010,3.7,MSIT,77014.20393030418,Science,India,GMAT,40,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2011,0,777,0,low-income,77014.20393030418
+5095,MBA,2014,3.61,MISM,74260.3393586686,Commerce,India,GMAT,28,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2010,0,719,0,'Women in non-traditional areas',74260.3393586686
+5096,MBA,2010,3.09,BIDA,58349.12183366307,Science,India,GMAT,29,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2011,0,757,0,Regional/Remote,58349.12183366307
+5097,Masters,2009,3.45,MSIT,69364.58012020537,Arts,India,GRE,23,Male,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2008,337,0,0,Disability,69364.58012020537
+5098,Masters,2015,4.01,BIDA,86499.7374548267,Science,India,GRE,36,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2005,337,0,0,low-income,86499.7374548267
+5099,Masters,2014,3.53,MSIT,71812.45973943698,Commerce,India,GRE,28,Male,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2007,336,0,0,'Women in non-traditional areas',71812.45973943698
+5100,Masters,2014,3.6,MSIT,73954.35440626465,Arts,India,GRE,25,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2014,328,0,0,Regional/Remote,73954.35440626465
+5101,MBA,2008,4.19,MSIT,92007.46659809786,Commerce,India,GMAT,29,Male,India,Pittsburgh,India,'Part Time',external,India,Hindi,2011,0,744,0,Disability,92007.46659809786
+5102,MBA,2011,4.27,MSPPM,94455.34621732945,Arts,India,GMAT,26,Male,India,Pittsburgh,India,'Part Time',external,India,Hindi,2007,0,700,0,low-income,94455.34621732945
+5103,MBA,2013,3.88,MSIT,82521.93307357532,Commerce,India,GMAT,25,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2007,0,796,0,'Women in non-traditional areas',82521.93307357532
+5104,MBA,2015,3.64,MISM,75178.29421588047,Commerce,India,GMAT,25,Female,India,Pittsburgh,India,'Full Time',external,India,Hindi,2007,0,776,0,Regional/Remote,75178.29421588047
+5105,Masters,2007,3.55,MSIT,72424.42964424488,Arts,India,GRE,38,Female,India,Pittsburgh,India,'Full Time',external,India,Hindi,2005,339,0,0,Disability,72424.42964424488
+5106,Masters,2012,3.25,BIDA,63244.881072126314,Science,India,GRE,38,Male,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2005,337,0,0,low-income,63244.881072126314
+5107,Masters,2009,3.61,MSCS,74260.3393586686,Science,India,GRE,29,Female,India,Pittsburgh,India,'Full Time',external,India,Hindi,2007,325,0,0,'Women in non-traditional areas',74260.3393586686
+5108,Masters,2015,3.76,MSPPM,78850.11364472788,Commerce,India,GRE,33,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2010,328,0,0,Regional/Remote,78850.11364472788
+5109,MBA,2011,3.73,BIDA,77932.15878751603,Arts,India,GMAT,31,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2008,0,795,0,Disability,77932.15878751603
+5110,MBA,2009,4.21,MSPPM,92619.43650290575,Arts,India,GMAT,33,Male,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2005,0,758,0,low-income,92619.43650290575
+5111,MBA,2009,3.71,MSPPM,77320.18888270813,Commerce,India,GMAT,27,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2009,0,742,0,'Women in non-traditional areas',77320.18888270813
+5112,MBA,2011,3.43,BIDA,68752.61021539746,Science,India,GMAT,22,Male,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2005,0,725,0,Regional/Remote,68752.61021539746
+5113,Masters,2015,3.97,MSIT,85275.7976452109,Science,India,GRE,32,Male,India,Pittsburgh,India,'Part Time',external,India,Hindi,2013,332,0,0,Disability,85275.7976452109
+5114,Masters,2014,3.79,MSCS,79768.06850193975,Science,India,GRE,36,Male,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2009,337,0,0,low-income,79768.06850193975
+5115,Masters,2007,3.31,MSCS,65080.79078655003,Arts,India,GRE,25,Female,India,Pittsburgh,India,'Full Time',external,India,Hindi,2005,333,0,0,'Women in non-traditional areas',65080.79078655003
+5116,Masters,2014,4.09,MISM,88947.61707405832,Arts,India,GRE,39,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2005,330,0,0,Regional/Remote,88947.61707405832
+5117,MBA,2013,4.1,BIDA,89253.60202646226,Science,India,GMAT,39,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2010,0,731,0,Disability,89253.60202646226
+5118,MBA,2015,3.43,MSIT,68752.61021539746,Arts,India,GMAT,28,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2014,0,768,0,low-income,68752.61021539746
+5119,MBA,2006,4.08,MSIT,88641.63212165437,Arts,India,GMAT,37,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2005,0,695,0,'Women in non-traditional areas',88641.63212165437
+5120,MBA,2013,3.17,BIDA,60797.00145289469,Commerce,India,GMAT,38,Male,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2007,0,723,0,Regional/Remote,60797.00145289469
+5121,Masters,2014,4.17,BIDA,91395.49669328994,Science,India,GRE,22,Female,India,Pittsburgh,India,'Full Time',external,India,Hindi,2009,332,0,0,Disability,91395.49669328994
+5122,Masters,2014,3.31,MISM,65080.79078655003,Commerce,India,GRE,26,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2007,332,0,0,low-income,65080.79078655003
+5123,Masters,2014,4.2,MSIT,92313.4515505018,Arts,India,GRE,29,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2006,339,0,0,'Women in non-traditional areas',92313.4515505018
+5124,Masters,2012,4.17,MSIT,91395.49669328994,Science,India,GRE,31,Female,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2012,333,0,0,Regional/Remote,91395.49669328994
+5125,MBA,2006,3.47,MSIT,69976.55002501328,Commerce,India,GMAT,39,Male,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2010,0,695,0,Disability,69976.55002501328
+5126,MBA,2008,3.45,MSIT,69364.58012020537,Arts,India,GMAT,33,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2010,0,681,0,low-income,69364.58012020537
+5127,MBA,2009,4.1,BIDA,89253.60202646226,Science,India,GMAT,35,Male,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2009,0,681,0,'Women in non-traditional areas',89253.60202646226
+5128,MBA,2008,3.05,MSPPM,57125.18202404726,Arts,India,GMAT,35,Male,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2010,0,766,0,Regional/Remote,57125.18202404726
+5129,Masters,2006,3.6,MISM,73954.35440626465,Arts,India,GRE,32,Female,India,Pittsburgh,India,'Part Time',external,India,Hindi,2007,340,0,0,Disability,73954.35440626465
+5130,Masters,2011,3.11,MISM,58961.091738470976,Science,India,GRE,39,Male,India,Pittsburgh,India,'Part Time',external,India,Hindi,2008,334,0,0,low-income,58961.091738470976
+5131,Masters,2009,3.32,MSCS,65386.77573895398,Commerce,India,GRE,37,Male,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2013,340,0,0,'Women in non-traditional areas',65386.77573895398
+5132,Masters,2015,3.5,MISM,70894.50488222513,Commerce,India,GRE,36,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2009,329,0,0,Regional/Remote,70894.50488222513
+5133,MBA,2013,3.46,MSCS,69670.56507260932,Commerce,India,GMAT,34,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2006,0,766,0,Disability,69670.56507260932
+5134,MBA,2010,3.47,MSCS,69976.55002501328,Science,India,GMAT,21,Female,India,Pittsburgh,India,'Part Time',external,India,Hindi,2013,0,725,0,low-income,69976.55002501328
+5135,MBA,2009,3.15,BIDA,60185.03154808679,Arts,India,GMAT,22,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2014,0,763,0,'Women in non-traditional areas',60185.03154808679
+5136,MBA,2009,3.21,BIDA,62020.9412625105,Commerce,India,GMAT,22,Female,India,Pittsburgh,India,'Full Time',external,India,Hindi,2011,0,682,0,Regional/Remote,62020.9412625105
+5137,Masters,2011,4.19,MSCS,92007.46659809786,Commerce,India,GRE,35,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2007,331,0,0,Disability,92007.46659809786
+5138,Masters,2012,3.19,MSCS,61408.9713577026,Science,India,GRE,24,Male,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2008,340,0,0,low-income,61408.9713577026
+5139,Masters,2011,3.89,MISM,82827.91802597928,Arts,India,GRE,27,Male,India,Pittsburgh,India,'Part Time',external,India,Hindi,2008,340,0,0,'Women in non-traditional areas',82827.91802597928
+5140,Masters,2013,3.16,MSIT,60491.01650049075,Science,India,GRE,32,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2014,333,0,0,Regional/Remote,60491.01650049075
+5141,MBA,2007,3.58,MSPPM,73342.38450145675,Commerce,India,GMAT,21,Male,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2007,0,727,0,Disability,73342.38450145675
+5142,MBA,2013,3.62,MSCS,74566.32431107256,Commerce,India,GMAT,38,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2009,0,792,0,low-income,74566.32431107256
+5143,MBA,2007,3.41,MISM,68140.64031058956,Arts,India,GMAT,32,Female,India,Pittsburgh,India,'Full Time',external,India,Hindi,2012,0,727,0,'Women in non-traditional areas',68140.64031058956
+5144,MBA,2012,3.72,MSIT,77626.17383511209,Arts,India,GMAT,30,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2008,0,708,0,Regional/Remote,77626.17383511209
+5145,Masters,2011,4.09,MSIT,88947.61707405832,Arts,India,GRE,36,Male,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2005,327,0,0,Disability,88947.61707405832
+5146,Masters,2007,3.68,MSIT,76402.23402549628,Science,India,GRE,23,Female,India,Pittsburgh,India,'Full Time',external,India,Hindi,2005,334,0,0,low-income,76402.23402549628
+5147,Masters,2013,3,MISM,55595.2572620275,Science,India,GRE,34,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2011,336,0,0,'Women in non-traditional areas',55595.2572620275
+5148,Masters,2007,4.26,BIDA,94149.36126492551,Arts,India,GRE,25,Female,India,Pittsburgh,India,'Full Time',external,India,Hindi,2008,336,0,0,Regional/Remote,94149.36126492551
+5149,MBA,2006,3.51,MSCS,71200.48983462907,Commerce,India,GMAT,24,Female,India,Pittsburgh,India,'Full Time',external,India,Hindi,2014,0,796,0,Disability,71200.48983462907
+5150,MBA,2009,3.61,MSCS,74260.3393586686,Commerce,India,GMAT,24,Male,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2005,0,780,0,low-income,74260.3393586686
+5151,MBA,2009,3.22,MSCS,62326.92621491446,Commerce,India,GMAT,26,Female,India,Pittsburgh,India,'Full Time',external,India,Hindi,2013,0,747,0,'Women in non-traditional areas',62326.92621491446
+5152,MBA,2010,3.01,MISM,55901.24221443145,Arts,India,GMAT,26,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2011,0,731,0,Regional/Remote,55901.24221443145
+5153,Masters,2006,4.17,MSIT,91395.49669328994,Commerce,India,GRE,26,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2006,331,0,0,Disability,91395.49669328994
+5154,Masters,2008,4.15,MSCS,90783.52678848205,Science,India,GRE,36,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2010,333,0,0,low-income,90783.52678848205
+5155,Masters,2008,3.31,MSCS,65080.79078655003,Arts,India,GRE,21,Female,India,Pittsburgh,India,'Part Time',external,India,Hindi,2011,329,0,0,'Women in non-traditional areas',65080.79078655003
+5156,Masters,2008,3.04,MSIT,56819.19707164331,Commerce,India,GRE,34,Female,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2010,339,0,0,Regional/Remote,56819.19707164331
+5157,MBA,2007,4.26,MSPPM,94149.36126492551,Commerce,India,GMAT,40,Female,India,Pittsburgh,India,'Part Time',external,India,Hindi,2012,0,762,0,Disability,94149.36126492551
+5158,MBA,2008,3.7,MSCS,77014.20393030418,Arts,India,GMAT,37,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2005,0,710,0,low-income,77014.20393030418
+5159,MBA,2013,3.09,MSPPM,58349.12183366307,Arts,India,GMAT,25,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2012,0,740,0,'Women in non-traditional areas',58349.12183366307
+5160,MBA,2006,4.23,BIDA,93231.40640771367,Commerce,India,GMAT,21,Female,India,Pittsburgh,India,'Part Time',external,India,Hindi,2008,0,716,0,Regional/Remote,93231.40640771367
+5161,Masters,2011,4.17,MISM,91395.49669328994,Science,India,GRE,31,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2013,337,0,0,Disability,91395.49669328994
+5162,Masters,2010,3.29,MISM,64468.820881742125,Commerce,India,GRE,36,Male,India,Pittsburgh,India,'Full Time',external,India,Hindi,2009,338,0,0,low-income,64468.820881742125
+5163,Masters,2010,3.3,MSIT,64774.80583414607,Arts,India,GRE,21,Female,India,Pittsburgh,India,'Part Time',external,India,Hindi,2005,336,0,0,'Women in non-traditional areas',64774.80583414607
+5164,Masters,2009,3.03,MSCS,56513.21211923935,Commerce,India,GRE,24,Male,India,Pittsburgh,India,'Full Time',external,India,Hindi,2011,335,0,0,Regional/Remote,56513.21211923935
+5165,MBA,2006,3.47,MSCS,69976.55002501328,Commerce,India,GMAT,39,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2010,0,699,0,Disability,69976.55002501328
+5166,MBA,2006,3.97,MSPPM,85275.7976452109,Arts,India,GMAT,30,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2006,0,779,0,low-income,85275.7976452109
+5167,MBA,2015,4.07,MSCS,88335.64716925043,Science,India,GMAT,21,Female,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2008,0,769,0,'Women in non-traditional areas',88335.64716925043
+5168,MBA,2015,3.87,BIDA,82215.94812117137,Arts,India,GMAT,33,Female,India,Pittsburgh,India,'Part Time',external,India,Hindi,2011,0,742,0,Regional/Remote,82215.94812117137
+5169,Masters,2008,3.54,MISM,72118.44469184094,Commerce,India,GRE,22,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2008,326,0,0,Disability,72118.44469184094
+5170,Masters,2011,4.21,MSCS,92619.43650290575,Commerce,India,GRE,35,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2014,334,0,0,low-income,92619.43650290575
+5171,Masters,2010,3.17,MSPPM,60797.00145289469,Arts,India,GRE,22,Male,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2011,330,0,0,'Women in non-traditional areas',60797.00145289469
+5172,Masters,2011,3.84,MSIT,81297.9932639595,Arts,India,GRE,23,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2005,330,0,0,Regional/Remote,81297.9932639595
+5173,MBA,2014,3.85,MSPPM,81603.97821636347,Arts,India,GMAT,28,Male,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2013,0,791,0,Disability,81603.97821636347
+5174,MBA,2010,3.01,MSIT,55901.24221443145,Arts,India,GMAT,29,Male,India,Pittsburgh,India,'Part Time',external,India,Hindi,2008,0,797,0,low-income,55901.24221443145
+5175,MBA,2007,3.5,MSCS,70894.50488222513,Science,India,GMAT,38,Female,India,Pittsburgh,India,'Full Time',external,India,Hindi,2006,0,685,0,'Women in non-traditional areas',70894.50488222513
+5176,MBA,2009,3.19,MSPPM,61408.9713577026,Commerce,India,GMAT,28,Male,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2006,0,727,0,Regional/Remote,61408.9713577026
+5177,Masters,2011,4.21,BIDA,92619.43650290575,Commerce,India,GRE,33,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2007,326,0,0,Disability,92619.43650290575
+5178,Masters,2011,3.71,MISM,77320.18888270813,Commerce,India,GRE,27,Male,India,Pittsburgh,India,'Part Time',external,India,Hindi,2013,333,0,0,low-income,77320.18888270813
+5179,Masters,2009,3.12,BIDA,59267.076690874936,Commerce,India,GRE,26,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2006,328,0,0,'Women in non-traditional areas',59267.076690874936
+5180,Masters,2015,3.5,MSIT,70894.50488222513,Commerce,India,GRE,38,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2014,340,0,0,Regional/Remote,70894.50488222513
+5181,MBA,2006,3.92,MSIT,83745.87288319113,Science,India,GMAT,35,Male,India,Pittsburgh,India,'Part Time',external,India,Hindi,2014,0,671,0,Disability,83745.87288319113
+5182,MBA,2013,3.72,MSIT,77626.17383511209,Arts,India,GMAT,25,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2012,0,782,0,low-income,77626.17383511209
+5183,MBA,2013,3.05,BIDA,57125.18202404726,Arts,India,GMAT,26,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2009,0,693,0,'Women in non-traditional areas',57125.18202404726
+5184,MBA,2008,3.22,MSIT,62326.92621491446,Commerce,India,GMAT,34,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2010,0,699,0,Regional/Remote,62326.92621491446
+5185,Masters,2013,3.76,MSIT,78850.11364472788,Science,India,GRE,35,Male,India,Pittsburgh,India,'Full Time',external,India,Hindi,2007,339,0,0,Disability,78850.11364472788
+5186,Masters,2015,3.63,MSPPM,74872.3092634765,Science,India,GRE,26,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2005,339,0,0,low-income,74872.3092634765
+5187,Masters,2015,3.02,MSCS,56207.22716683541,Commerce,India,GRE,37,Male,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2011,335,0,0,'Women in non-traditional areas',56207.22716683541
+5188,Masters,2009,4.32,MSPPM,95985.27097934924,Science,India,GRE,32,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2006,334,0,0,Regional/Remote,95985.27097934924
+5189,MBA,2012,3.76,MISM,78850.11364472788,Commerce,India,GMAT,32,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2007,0,751,0,Disability,78850.11364472788
+5190,MBA,2007,4.3,BIDA,95373.30107454132,Science,India,GMAT,38,Female,India,Pittsburgh,India,'Full Time',external,India,Hindi,2012,0,703,0,low-income,95373.30107454132
+5191,MBA,2014,3.59,BIDA,73648.3694538607,Science,India,GMAT,35,Male,India,Pittsburgh,India,'Part Time',external,India,Hindi,2011,0,766,0,'Women in non-traditional areas',73648.3694538607
+5192,MBA,2015,4.14,BIDA,90477.54183607807,Commerce,India,GMAT,26,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2014,0,723,0,Regional/Remote,90477.54183607807
+5193,Masters,2006,3.35,MSIT,66304.73059616584,Arts,India,GRE,28,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2009,334,0,0,Disability,66304.73059616584
+5194,Masters,2010,3.18,MSIT,61102.98640529865,Arts,India,GRE,31,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2007,340,0,0,low-income,61102.98640529865
+5195,Masters,2009,3.96,MSCS,84969.81269280694,Arts,India,GRE,29,Male,India,Pittsburgh,India,'Full Time',external,India,Hindi,2010,325,0,0,'Women in non-traditional areas',84969.81269280694
+5196,Masters,2015,3.57,MSIT,73036.39954905279,Commerce,India,GRE,26,Male,India,Pittsburgh,India,'Full Time',external,India,Hindi,2009,332,0,0,Regional/Remote,73036.39954905279
+5197,MBA,2010,4.03,MISM,87111.70735963462,Science,India,GMAT,34,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2005,0,759,0,Disability,87111.70735963462
+5198,MBA,2009,3.57,MSCS,73036.39954905279,Arts,India,GMAT,34,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2013,0,736,0,low-income,73036.39954905279
+5199,MBA,2007,4.32,MSPPM,95985.27097934924,Commerce,India,GMAT,24,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2009,0,692,0,'Women in non-traditional areas',95985.27097934924
+5200,MBA,2011,3.93,MISM,84051.85783559509,Commerce,India,GMAT,38,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2008,0,700,0,Regional/Remote,84051.85783559509
+5201,Masters,2011,3.86,MSPPM,81909.96316876741,Science,India,GRE,34,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2007,325,0,0,Disability,81909.96316876741
+5202,Masters,2009,3.09,MSCS,58349.12183366307,Arts,India,GRE,22,Male,India,Pittsburgh,India,'Full Time',external,India,Hindi,2012,331,0,0,low-income,58349.12183366307
+5203,Masters,2008,3.61,MSIT,74260.3393586686,Science,India,GRE,26,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2010,331,0,0,'Women in non-traditional areas',74260.3393586686
+5204,Masters,2006,3.62,BIDA,74566.32431107256,Arts,India,GRE,38,Male,India,Pittsburgh,India,'Part Time',external,India,Hindi,2014,339,0,0,Regional/Remote,74566.32431107256
+5205,MBA,2007,3.4,BIDA,67834.6553581856,Science,India,GMAT,37,Male,India,Pittsburgh,India,'Part Time',external,India,Hindi,2007,0,738,0,Disability,67834.6553581856
+5206,MBA,2013,4.2,MISM,92313.4515505018,Science,India,GMAT,30,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2008,0,783,0,low-income,92313.4515505018
+5207,MBA,2012,3.44,MSPPM,69058.59516780141,Arts,India,GMAT,38,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2006,0,746,0,'Women in non-traditional areas',69058.59516780141
+5208,MBA,2010,4,MISM,86193.75250242275,Arts,India,GMAT,24,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2009,0,786,0,Regional/Remote,86193.75250242275
+5209,Masters,2008,3.03,MSPPM,56513.21211923935,Arts,India,GRE,40,Male,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2008,339,0,0,Disability,56513.21211923935
+5210,Masters,2010,3.33,BIDA,65692.76069135794,Arts,India,GRE,39,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2012,331,0,0,low-income,65692.76069135794
+5211,Masters,2006,3.63,MISM,74872.3092634765,Arts,India,GRE,32,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2010,339,0,0,'Women in non-traditional areas',74872.3092634765
+5212,Masters,2012,3.86,BIDA,81909.96316876741,Arts,India,GRE,25,Male,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2010,339,0,0,Regional/Remote,81909.96316876741
+5213,MBA,2006,3.73,BIDA,77932.15878751603,Science,India,GMAT,33,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2013,0,715,0,Disability,77932.15878751603
+5214,MBA,2014,4.11,MISM,89559.58697886624,Commerce,India,GMAT,38,Male,India,Pittsburgh,India,'Full Time',external,India,Hindi,2005,0,750,0,low-income,89559.58697886624
+5215,MBA,2007,3.78,BIDA,79462.08354953579,Commerce,India,GMAT,22,Female,India,Pittsburgh,India,'Part Time',external,India,Hindi,2006,0,789,0,'Women in non-traditional areas',79462.08354953579
+5216,MBA,2015,3.67,BIDA,76096.24907309232,Science,India,GMAT,26,Male,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2007,0,792,0,Regional/Remote,76096.24907309232
+5217,Masters,2009,3.6,MSCS,73954.35440626465,Arts,India,GRE,26,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2010,332,0,0,Disability,73954.35440626465
+5218,Masters,2015,4.14,MSCS,90477.54183607807,Science,India,GRE,31,Male,India,Pittsburgh,India,'Part Time',external,India,Hindi,2014,325,0,0,low-income,90477.54183607807
+5219,Masters,2006,4.08,MISM,88641.63212165437,Arts,India,GRE,25,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2006,338,0,0,'Women in non-traditional areas',88641.63212165437
+5220,Masters,2011,3.02,MISM,56207.22716683541,Science,India,GRE,28,Male,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2013,332,0,0,Regional/Remote,56207.22716683541
+5221,MBA,2015,3.94,MISM,84357.84278799903,Arts,India,GMAT,29,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2012,0,692,0,Disability,84357.84278799903
+5222,MBA,2006,3.61,MSPPM,74260.3393586686,Commerce,India,GMAT,39,Female,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2011,0,722,0,low-income,74260.3393586686
+5223,MBA,2008,4.14,MSPPM,90477.54183607807,Science,India,GMAT,35,Female,India,Pittsburgh,India,'Part Time',external,India,Hindi,2009,0,751,0,'Women in non-traditional areas',90477.54183607807
+5224,MBA,2009,3.66,MSCS,75790.26412068837,Science,India,GMAT,25,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2013,0,776,0,Regional/Remote,75790.26412068837
+5225,Masters,2009,4.31,MSIT,95679.28602694528,Science,India,GRE,24,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2008,327,0,0,Disability,95679.28602694528
+5226,Masters,2013,3.3,MSPPM,64774.80583414607,Commerce,India,GRE,37,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2006,327,0,0,low-income,64774.80583414607
+5227,Masters,2013,3.53,MISM,71812.45973943698,Commerce,India,GRE,31,Male,India,Pittsburgh,India,'Part Time',external,India,Hindi,2008,336,0,0,'Women in non-traditional areas',71812.45973943698
+5228,Masters,2009,3.56,BIDA,72730.41459664884,Science,India,GRE,34,Male,India,Pittsburgh,India,'Full Time',external,India,Hindi,2007,328,0,0,Regional/Remote,72730.41459664884
+5229,MBA,2015,4.19,MISM,92007.46659809786,Science,India,GMAT,21,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2014,0,723,0,Disability,92007.46659809786
+5230,MBA,2011,4.05,BIDA,87723.67726444251,Arts,India,GMAT,28,Male,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2012,0,718,0,low-income,87723.67726444251
+5231,MBA,2013,3.83,MSCS,80992.00831155556,Commerce,India,GMAT,23,Female,India,Pittsburgh,India,'Part Time',external,India,Hindi,2007,0,694,0,'Women in non-traditional areas',80992.00831155556
+5232,MBA,2009,3.21,MSPPM,62020.9412625105,Commerce,India,GMAT,22,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2014,0,703,0,Regional/Remote,62020.9412625105
+5233,Masters,2014,3.93,BIDA,84051.85783559509,Commerce,India,GRE,38,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2010,326,0,0,Disability,84051.85783559509
+5234,Masters,2015,3.28,BIDA,64162.835929338165,Arts,India,GRE,27,Male,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2014,329,0,0,low-income,64162.835929338165
+5235,Masters,2007,4.06,MSCS,88029.66221684645,Arts,India,GRE,37,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2006,331,0,0,'Women in non-traditional areas',88029.66221684645
+5236,Masters,2009,3.62,MSIT,74566.32431107256,Commerce,India,GRE,40,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2011,339,0,0,Regional/Remote,74566.32431107256
+5237,MBA,2010,3.54,MSCS,72118.44469184094,Science,India,GMAT,25,Male,India,Pittsburgh,India,'Full Time',external,India,Hindi,2005,0,725,0,Disability,72118.44469184094
+5238,MBA,2014,3.85,MSIT,81603.97821636347,Arts,India,GMAT,35,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2005,0,689,0,low-income,81603.97821636347
+5239,MBA,2011,3.98,BIDA,85581.78259761485,Science,India,GMAT,36,Male,India,Pittsburgh,India,'Part Time',external,India,Hindi,2013,0,785,0,'Women in non-traditional areas',85581.78259761485
+5240,MBA,2014,4.23,MSIT,93231.40640771367,Science,India,GMAT,26,Male,India,Pittsburgh,India,'Part Time',external,India,Hindi,2007,0,753,0,Regional/Remote,93231.40640771367
+5241,Masters,2009,3.7,MSPPM,77014.20393030418,Science,India,GRE,40,Female,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2007,327,0,0,Disability,77014.20393030418
+5242,Masters,2015,3.46,MSCS,69670.56507260932,Arts,India,GRE,31,Female,India,Pittsburgh,India,'Full Time',external,India,Hindi,2009,337,0,0,low-income,69670.56507260932
+5243,Masters,2012,3.29,MSPPM,64468.820881742125,Arts,India,GRE,35,Female,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2006,326,0,0,'Women in non-traditional areas',64468.820881742125
+5244,Masters,2014,4.04,MSCS,87417.69231203856,Arts,India,GRE,38,Male,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2006,326,0,0,Regional/Remote,87417.69231203856
+5245,MBA,2015,3.5,MSIT,70894.50488222513,Science,India,GMAT,36,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2012,0,758,0,Disability,70894.50488222513
+5246,MBA,2009,3.82,MSPPM,80686.0233591516,Commerce,India,GMAT,23,Male,India,Pittsburgh,India,'Part Time',external,India,Hindi,2009,0,779,0,low-income,80686.0233591516
+5247,MBA,2009,4.19,BIDA,92007.46659809786,Science,India,GMAT,24,Male,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2013,0,771,0,'Women in non-traditional areas',92007.46659809786
+5248,MBA,2015,3.75,MSPPM,78544.12869232394,Arts,India,GMAT,34,Female,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2012,0,706,0,Regional/Remote,78544.12869232394
+5249,Masters,2006,4.25,BIDA,93843.37631252156,Science,India,GRE,23,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2011,336,0,0,Disability,93843.37631252156
+5250,Masters,2010,4.04,BIDA,87417.69231203856,Commerce,India,GRE,39,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2006,336,0,0,low-income,87417.69231203856
+5251,Masters,2013,3.81,MSIT,80380.03840674766,Science,India,GRE,27,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2005,340,0,0,'Women in non-traditional areas',80380.03840674766
+5252,Masters,2015,3.48,BIDA,70282.53497741722,Science,India,GRE,23,Female,India,Pittsburgh,India,'Part Time',external,India,Hindi,2011,333,0,0,Regional/Remote,70282.53497741722
+5253,MBA,2013,3.1,MSCS,58655.10678606703,Science,India,GMAT,35,Female,India,Pittsburgh,India,'Full Time',external,India,Hindi,2014,0,740,0,Disability,58655.10678606703
+5254,MBA,2007,3.69,MISM,76708.21897790022,Science,India,GMAT,22,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2005,0,788,0,low-income,76708.21897790022
+5255,MBA,2006,3.69,MISM,76708.21897790022,Commerce,India,GMAT,27,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2011,0,671,0,'Women in non-traditional areas',76708.21897790022
+5256,MBA,2006,3.65,MSIT,75484.27916828441,Science,India,GMAT,28,Male,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2013,0,687,0,Regional/Remote,75484.27916828441
+5257,Masters,2010,3.74,MSCS,78238.14373992,Arts,India,GRE,25,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2006,339,0,0,Disability,78238.14373992
+5258,Masters,2007,3.61,MSCS,74260.3393586686,Arts,India,GRE,35,Male,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2014,335,0,0,low-income,74260.3393586686
+5259,Masters,2008,3.99,MSPPM,85887.7675500188,Arts,India,GRE,34,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2005,334,0,0,'Women in non-traditional areas',85887.7675500188
+5260,Masters,2008,3.91,BIDA,83439.88793078718,Science,India,GRE,31,Male,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2012,325,0,0,Regional/Remote,83439.88793078718
+5261,MBA,2006,3.34,MISM,65998.74564376188,Commerce,India,GMAT,23,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2010,0,713,0,Disability,65998.74564376188
+5262,MBA,2012,3.65,MSPPM,75484.27916828441,Science,India,GMAT,27,Male,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2013,0,678,0,low-income,75484.27916828441
+5263,MBA,2007,4.15,MISM,90783.52678848205,Science,India,GMAT,38,Male,India,Pittsburgh,India,'Full Time',external,India,Hindi,2013,0,764,0,'Women in non-traditional areas',90783.52678848205
+5264,MBA,2007,4.06,MISM,88029.66221684645,Science,India,GMAT,40,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2009,0,730,0,Regional/Remote,88029.66221684645
+5265,Masters,2014,3.88,BIDA,82521.93307357532,Arts,India,GRE,39,Male,India,Pittsburgh,India,'Full Time',external,India,Hindi,2005,334,0,0,Disability,82521.93307357532
+5266,Masters,2007,3.4,MSCS,67834.6553581856,Arts,India,GRE,29,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2010,338,0,0,low-income,67834.6553581856
+5267,Masters,2010,3.34,MSCS,65998.74564376188,Arts,India,GRE,25,Female,India,Pittsburgh,India,'Full Time',external,India,Hindi,2013,327,0,0,'Women in non-traditional areas',65998.74564376188
+5268,Masters,2014,3.97,MSPPM,85275.7976452109,Arts,India,GRE,40,Female,India,Pittsburgh,India,'Part Time',external,India,Hindi,2009,332,0,0,Regional/Remote,85275.7976452109
+5269,MBA,2006,4.06,MISM,88029.66221684645,Science,India,GMAT,35,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2009,0,701,0,Disability,88029.66221684645
+5270,MBA,2014,4.06,MSIT,88029.66221684645,Commerce,India,GMAT,25,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2007,0,741,0,low-income,88029.66221684645
+5271,MBA,2006,4.11,MSCS,89559.58697886624,Arts,India,GMAT,22,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2005,0,789,0,'Women in non-traditional areas',89559.58697886624
+5272,MBA,2013,3.02,BIDA,56207.22716683541,Commerce,India,GMAT,40,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2009,0,691,0,Regional/Remote,56207.22716683541
+5273,Masters,2010,3.13,BIDA,59573.06164327888,Commerce,India,GRE,33,Male,India,Pittsburgh,India,'Full Time',external,India,Hindi,2009,329,0,0,Disability,59573.06164327888
+5274,Masters,2010,3.13,MSPPM,59573.06164327888,Science,India,GRE,24,Male,India,Pittsburgh,India,'Part Time',external,India,Hindi,2009,325,0,0,low-income,59573.06164327888
+5275,Masters,2014,4.25,MISM,93843.37631252156,Science,India,GRE,37,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2009,340,0,0,'Women in non-traditional areas',93843.37631252156
+5276,Masters,2007,3.46,BIDA,69670.56507260932,Arts,India,GRE,30,Male,India,Pittsburgh,India,'Full Time',external,India,Hindi,2006,335,0,0,Regional/Remote,69670.56507260932
+5277,MBA,2013,3.96,MSPPM,84969.81269280694,Science,India,GMAT,39,Male,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2005,0,731,0,Disability,84969.81269280694
+5278,MBA,2006,3.57,MSCS,73036.39954905279,Commerce,India,GMAT,31,Female,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2014,0,681,0,low-income,73036.39954905279
+5279,MBA,2008,4.24,BIDA,93537.39136011762,Science,India,GMAT,26,Female,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2010,0,720,0,'Women in non-traditional areas',93537.39136011762
+5280,MBA,2007,3.32,MSIT,65386.77573895398,Commerce,India,GMAT,37,Male,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2009,0,763,0,Regional/Remote,65386.77573895398
+5281,Masters,2014,3.36,BIDA,66610.71554856979,Commerce,India,GRE,30,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2005,327,0,0,Disability,66610.71554856979
+5282,Masters,2012,3.77,MSCS,79156.09859713184,Science,India,GRE,27,Female,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2007,332,0,0,low-income,79156.09859713184
+5283,Masters,2015,3.52,MSIT,71506.47478703303,Arts,India,GRE,37,Female,India,Pittsburgh,India,'Part Time',external,India,Hindi,2011,327,0,0,'Women in non-traditional areas',71506.47478703303
+5284,Masters,2007,3.27,BIDA,63856.85097693422,Arts,India,GRE,36,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2006,337,0,0,Regional/Remote,63856.85097693422
+5285,MBA,2006,3.98,MSPPM,85581.78259761485,Science,India,GMAT,28,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2012,0,748,0,Disability,85581.78259761485
+5286,MBA,2009,3.1,MISM,58655.10678606703,Commerce,India,GMAT,25,Female,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2008,0,790,0,low-income,58655.10678606703
+5287,MBA,2012,3.64,MSIT,75178.29421588047,Science,India,GMAT,26,Female,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2010,0,741,0,'Women in non-traditional areas',75178.29421588047
+5288,MBA,2015,3.61,MSIT,74260.3393586686,Arts,India,GMAT,28,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2006,0,673,0,Regional/Remote,74260.3393586686
+5289,Masters,2015,3.15,BIDA,60185.03154808679,Arts,India,GRE,39,Male,India,Pittsburgh,India,'Part Time',multi-modal,India,Hindi,2007,330,0,0,Disability,60185.03154808679
+5290,Masters,2015,4.01,MSPPM,86499.7374548267,Science,India,GRE,35,Female,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2010,340,0,0,low-income,86499.7374548267
+5291,Masters,2007,4.32,MISM,95985.27097934924,Commerce,India,GRE,28,Female,India,Pittsburgh,India,'Full Time',external,India,Hindi,2009,339,0,0,'Women in non-traditional areas',95985.27097934924
+5292,Masters,2008,4.05,MSPPM,87723.67726444251,Commerce,India,GRE,39,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2007,337,0,0,Regional/Remote,87723.67726444251
+5293,MBA,2014,4,MSIT,86193.75250242275,Arts,India,GMAT,21,Female,India,Pittsburgh,India,'Part Time',external,India,Hindi,2009,0,676,0,Disability,86193.75250242275
+5294,MBA,2015,3.91,MSIT,83439.88793078718,Arts,India,GMAT,36,Female,India,Pittsburgh,India,'Full Time',external,India,Hindi,2005,0,686,0,low-income,83439.88793078718
+5295,MBA,2007,4.24,MSPPM,93537.39136011762,Commerce,India,GMAT,34,Female,India,Pittsburgh,India,'Part Time',external,India,Hindi,2009,0,769,0,'Women in non-traditional areas',93537.39136011762
+5296,MBA,2008,3.36,BIDA,66610.71554856979,Commerce,India,GMAT,33,Male,India,Pittsburgh,India,'Full Time',internal,India,Hindi,2005,0,739,0,Regional/Remote,66610.71554856979
+5297,Masters,2006,3.04,BIDA,56819.19707164331,Science,India,GRE,31,Female,India,Pittsburgh,India,'Full Time',multi-modal,India,Hindi,2009,326,0,0,Disability,56819.19707164331
+5298,Masters,2008,3.71,BIDA,77320.18888270813,Science,India,GRE,34,Male,India,Pittsburgh,India,'Part Time',internal,India,Hindi,2009,327,0,0,low-income,77320.18888270813
+5299,Masters,2010,3.08,MSIT,58043.136881259124,Science,India,GRE,32,Male,India,Pittsburgh,India,'Part Time',external,India,Hindi,2014,328,0,0,'Women in non-traditional areas',58043.136881259124
+5300,Masters,2013,3.28,MISM,64162.835929338165,Commerce,India,GRE,23,Female,India,Pittsburgh,India,'Full Time',external,India,Hindi,2009,335,0,0,Regional/Remote,64162.835929338165

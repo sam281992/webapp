@@ -1,0 +1,64 @@
+{% extends 'grumblr/base.html' %}
+
+{% block navigationbar %}
+                <div class="navbar-header">
+                    <a href="/post"><img src="/static/grumblr/images/3.png" height="80" width="400"></a>
+                </div>
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <form action="/post">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li>
+                                <button type="submit" class="btn btn-link">Post</button>
+                            </li>
+                        </ul>
+                    </form>
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <form action="/logout">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li>
+                                <button type="submit" class="btn btn-link">Log out</button>
+                            </li>
+                        </ul>
+                    </form>
+                </div>
+                </div>
+
+{% endblock %}
+
+{% block maincontent %}
+<div class="container lower_div">
+        <div class="row">
+            <div class="postdiv">
+                <H2>FOLLOWER PAGE....</H2>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-12">
+                <H3>POST:</h3>
+            </div>
+        </div>
+        {% for instance in queryset %}
+        <div class="row">
+            <div class="col-lg-6">
+                <H5>{{instance.post_text}}</h5>
+            </div>
+            <div class="col-lg-6">
+                <img src="{% url 'retrieve_image' instance.uname %}" height="50" width="50">
+            </div>
+            
+        </div>
+        <div class="row">
+            <div class="col-lg-4">
+                <H5>{{instance.datetime}}</h5>
+            </div>
+            <div class="col-lg-4">
+                <form action="/profile" method="post">
+                    <button type="submit" name="req" value={{instance.uname}} class="profbut">{{instance.uname}}</button>
+                    {% csrf_token %}
+                </form>
+            </div>
+        </div>
+        {% endfor %}
+</div>
+{% endblock %}

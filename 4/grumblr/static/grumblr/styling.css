@@ -1,0 +1,60 @@
+.navbar .brand {
+    max-height: 1%;
+    max-width: 1%;
+}
+
+.navbar {
+    min-height: 80px
+}
+
+.center {
+    padding-top: 120px
+}
+
+body {
+    background: url(/static/grumblr/images/blogging-SMB.png) !important;
+}
+
+.navbar {
+    min-height: 80px
+}
+
+.jumboton {
+    min-height: 500px
+}
+
+.jumbotron .blog-text {
+    padding-top: 50px
+}
+
+.center_div {
+    margin: 0 auto;
+    width: 400px
+}
+
+.btn-primary {
+    width: 400px;
+}
+
+.center_div1 {
+    padding-top: 120px
+}
+.center_div2{
+    padding-top: 40px
+}
+.postdiv {
+    padding-top: 120px
+}
+
+.profbut {
+    border: none;
+    outline: none;
+    background: none;
+    cursor: pointer;
+    color: #0000EE;
+    padding: 0;
+    text-decoration: underline;
+    font-family: inherit;
+    font-size: inherit;
+    color: #000;
+}

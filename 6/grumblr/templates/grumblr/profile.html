@@ -1,0 +1,185 @@
+{% extends 'grumblr/base.html' %}
+{% block navigationbar %}
+                    <div class="navbar-header">
+                        <a href="{% url 'post' %}"><img src="/static/grumblr/images/3.png" height="80" width="400" alt=/>
+                        </a>
+                    </div>
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <form action="{% url 'post' %}" method="get">
+                            <ul class="nav navbar-nav navbar-right">
+                                <li>
+                                    <button type="submit" class="btn btn-link">Post</button>
+                                </li>
+                            </ul>
+                        </form>
+                        {% if followUnfollowButton %}
+                        <form action="{% url 'profile' %}" method="post">
+                            <ul class="nav navbar-nav navbar-right">
+                                <li>
+                                    <button type="submit" class="btn btn-link" name = "unfollow" value = {{userinfo.username}} >Unfollow</button>
+                                </li>
+                            </ul>
+                            {% csrf_token %}
+                        </form>
+                        {% else %}
+                        <form action="{% url 'profile' %}" method="post">
+                            <ul class="nav navbar-nav navbar-right">
+                                <li>
+                                    <button type="submit" class="btn btn-link" name = "follow" value = {{userinfo.username}} >Follow</button>
+                                </li>
+                            </ul>
+                            {% csrf_token %}
+                        </form>
+                        {% endif %}
+                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <form action="{% url 'logout' %}">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li>
+                                <button type="submit" class="btn btn-link">Log out</button>
+                            </li>
+                        </ul>
+                    </form>
+                </div>
+                    </div>
+{% endblock %}
+{% block maincontent %}
+ <div class="container center_div1">
+            <form action="{% url 'post' %}" method="get">
+                <div class="row">
+                    <div class="form-group">
+                        <H2>PROFILE...</H2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="row">
+                            <div class="form-group col-lg-3">
+                                <H4>First Name: </H4>
+                            </div>
+                            <div class="form-group col-lg-3">
+                                <H4>{{userinfo.first_name}}</H4>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-lg-3">
+                                <H4>Last Name: </H4>
+                            </div>
+                            <div class="form-group col-lg-3">
+                                <H4>{{userinfo.last_name}}</H4>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-lg-3">
+                                <H4>Username: </H4>
+                            </div>
+                            <div class="form-group col-lg-6">
+                                <H4>{{userinfo.username}}</H4>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-lg-3">
+                                <H4>Age: </H4>
+                            </div>
+                            <div class="form-group col-lg-6">
+                                <H4>{{agebio.age}}</H4>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-lg-3">
+                                <H4>Bio: </H4>
+                            </div>
+                            <div class="form-group col-lg-6">
+                                <H4>{{agebio.bio}}</H4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <img src="{% url 'retrieve_image' userinfo.username %}"  height ="250" width ="250" alt=/>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="container lower_div">
+            <form action="{% url 'post' %}" method="get">
+                <div class="row">
+                    <div class="form-group">
+                        <H2>POSTS...</H2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <H3>Post:</H3>
+                    </div>
+                </div>
+                
+                
+                {% for instance in profileinfo %}
+                <div class="row">
+                    <div class="col-lg-12">
+                        <H4>{{instance.post_text}}</H4>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <H5>{{instance.datetime}}</H5>
+                    </div>
+                    <div class="col-lg-4">
+                        <H5>{{instance.uname}}</H5>
+                    </div>
+                </div>
+
+        <!-- comments -->
+                <div class = "row" id = allcomments{{instance.pk}}>
+                {% for commvalue in comment %}
+                    {% if commvalue.postvalue_id == instance.id %}
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="container-fluid">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <h5>{{commvalue.textvalue}}</h5>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <img src="{% url 'retrieve_image' commvalue.uservalue.username %}" height="50" width="50">
+                                        </div>
+                                    </div>
+                                </div>    
+                                <div class="container-fluid">
+                                    <div class="row">
+                                        <div class="col-md-4">
+                                            <h5>{{commvalue.datevalue}}</h5>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <form action="{% url 'profile' %}" method="get">
+                                                <button type="submit" class="profbut" name="req" value={{commvalue.uservalue.username}}> {{commvalue.uservalue.username}}</button>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    {% endif %} 
+                {% endfor %}
+                </div>
+
+                    <div class = "row" id = {{instance.pk}}>
+                    <br>
+                        <div class = "col-md-12 blahblah" id = "{{instance.pk}}">
+                            <form action = "{% url 'commentPage' %}" method="post">
+                                {% csrf_token %}
+                                <input class="commentform" id="id_comment{{instance.pk}}" maxlength="42" name="comment" placeholder="Comment" required="" type="text" >
+                                <input id="id_message{{instance.pk}}" name="message" value = {{instance.id}} type="hidden">
+                                <br><br><button class="btn btn-primary btn-xs" type="submit">Add Comment</button><br>
+                            </form>
+                        </div>
+                    </div>
+                   <br>
+                {% endfor %}
+  
+            </form>
+        </div>  
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="/static/grumblr/js/refreshprofile.js" type="text/javascript"></script>
+
+{% endblock %}
+       

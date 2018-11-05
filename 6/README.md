@@ -1,12 +1,8 @@
-To turn in homework 5, create files (and subdirectories if needed) in
-this directory, add and commit those files to your cloned repository,
-and push your commit to your bare repository on GitHub.
+This application is a similar to a social media site. Allows users to post comments, create profiles and chat with other users within the system.
 
-Add any general notes or instructions for the TAs to this README file.
-The TAs will read this file before evaluating your work.
+The application was designed and developed using django.
 
-Name : Samyak Tushar Mehta 
-Course : Web Applications Development(15-637)
+Name : Samyak Tushar Mehta
 
 
 Attribution
